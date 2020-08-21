@@ -1,2 +1,3 @@
 # Monkey-Worshipping-Simulator-2
-A game i'm working on
+Right now this is a menu demo for anyone that wants to download it and listen to Lofi-Beats
+
